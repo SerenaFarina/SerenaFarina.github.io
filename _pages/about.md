@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: *Research with passion, discover with joy*
+subtitle: Research with passion, discover with joy
 
 profile:
   align: right

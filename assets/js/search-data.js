@@ -460,6 +460,13 @@ ninja.data = [{
           window.open("mailto:%73%65%72%65%6E%61.%66%61%72%69%6E%61@%69%6E%61%66.%69%74", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/serena-farina", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',

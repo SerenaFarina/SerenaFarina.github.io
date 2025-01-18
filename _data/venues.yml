@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"SPIE ATI":
+  url: https://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation
+  color: "#1e1782"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"SPIE DCS":
+  url: https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing
+  color: "#1e1782"
 
-"Vision":
-  color: "#009f36"
+"IEEE TIM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19
+
+"IEEE JSTQE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2944
+
+"Rev. Sci. Instrum.":
+  url: https://pubs.aip.org/aip/rsi 
+
+"Opt. Lett.":
+  url: https://opg.optica.org/ol/home.cfm
+
+"Opt. Express":
+  url: https://opg.optica.org/oe/home.cfm
+

@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Serena Farina",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "serena.farina@inaf.it",
+    "phone": "+39 0223699465",
+    "url": "https://serenafarina.github.io",
+    "summary": "An electronic engineer exploring the applications of single-photon detectors",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,38 +24,29 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "National Institute of Astrophysics (INAF-IASF)",
+      "position": "Post-doctoral fellow",
+      "location": "Milan, Italy",
+      "url": "http://www.inaf.it",
+      "startDate": "Mar. 2024",
+      "endDate": "now",
+      "summary": "Support to the debug of the V-UV detector of the Metis instrument on board Solar Orbiter. Design of the electronics acquisition system for a V-UV spectrograph based on a photon counting microchannel plate (MCP).",
+      "highlights": ["Microchannel plates (MCP), V-UV detectors"]
     }
+    
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Politecnico di Milano",
+      "location": "Milan, Italy",
+      "url": "https://www.polimi.it",
+      "area": "Topic: Toward enhanced time-correlated single-photon counting systems: from theoretical studies to field applications. Research on photon timing systems with single-photon avalanche diodes (SPADs).",
+      "studyType": "Ph.D. in Information Technology (Electronics)",
+      "startDate": "2020",
+      "endDate": "2024",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Single-photon avalanche diodes (SPADs), photon counting e timing, TCSPC, high-speed electronic systems"]
     }
   ],
   "awards": [
